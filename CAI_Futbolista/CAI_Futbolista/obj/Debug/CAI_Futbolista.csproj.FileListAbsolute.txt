@@ -1,0 +1,7 @@
+C:\Users\Michu\Documents\GitHub\CAI_Futbolista\CAI_Futbolista\CAI_Futbolista\obj\Debug\CAI_Futbolista.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAI_Futbolista\CAI_Futbolista\CAI_Futbolista\obj\Debug\CAI_Futbolista.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAI_Futbolista\CAI_Futbolista\CAI_Futbolista\bin\Debug\CAI_Futbolista.exe.config
+C:\Users\Michu\Documents\GitHub\CAI_Futbolista\CAI_Futbolista\CAI_Futbolista\bin\Debug\CAI_Futbolista.exe
+C:\Users\Michu\Documents\GitHub\CAI_Futbolista\CAI_Futbolista\CAI_Futbolista\bin\Debug\CAI_Futbolista.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Futbolista\CAI_Futbolista\CAI_Futbolista\obj\Debug\CAI_Futbolista.exe
+C:\Users\Michu\Documents\GitHub\CAI_Futbolista\CAI_Futbolista\CAI_Futbolista\obj\Debug\CAI_Futbolista.pdb
